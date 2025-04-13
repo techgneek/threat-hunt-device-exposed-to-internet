@@ -1,11 +1,5 @@
 # Brute-Force Detection Lab: Threat Hunt on Internet-Facing Windows VM
 
-**Author:** James Moore  \
-**Date:** April 11, 2025  \
-**Lab Type:** Threat Hunting / Cloud Security / MITRE ATT&CK Mapping
-
----
-
 ## :bookmark_tabs: Overview
 This lab simulates a real-world threat hunt to investigate brute-force login attempts on an internet-facing Windows VM. Using KQL queries, Azure Defender telemetry, and MITRE ATT&CK alignment, we determined exposure status, login activity, and potential compromise.
 
